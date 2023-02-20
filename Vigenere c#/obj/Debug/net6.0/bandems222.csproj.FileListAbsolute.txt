@@ -1,0 +1,15 @@
+C:\Users\Vilius\OneDrive\Desktop\bandems222\bin\Debug\net6.0\bandems222.exe
+C:\Users\Vilius\OneDrive\Desktop\bandems222\bin\Debug\net6.0\bandems222.deps.json
+C:\Users\Vilius\OneDrive\Desktop\bandems222\bin\Debug\net6.0\bandems222.runtimeconfig.json
+C:\Users\Vilius\OneDrive\Desktop\bandems222\bin\Debug\net6.0\bandems222.dll
+C:\Users\Vilius\OneDrive\Desktop\bandems222\bin\Debug\net6.0\ref\bandems222.dll
+C:\Users\Vilius\OneDrive\Desktop\bandems222\bin\Debug\net6.0\bandems222.pdb
+C:\Users\Vilius\OneDrive\Desktop\bandems222\obj\Debug\net6.0\bandems222.csproj.AssemblyReference.cache
+C:\Users\Vilius\OneDrive\Desktop\bandems222\obj\Debug\net6.0\bandems222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vilius\OneDrive\Desktop\bandems222\obj\Debug\net6.0\bandems222.AssemblyInfoInputs.cache
+C:\Users\Vilius\OneDrive\Desktop\bandems222\obj\Debug\net6.0\bandems222.AssemblyInfo.cs
+C:\Users\Vilius\OneDrive\Desktop\bandems222\obj\Debug\net6.0\bandems222.csproj.CoreCompileInputs.cache
+C:\Users\Vilius\OneDrive\Desktop\bandems222\obj\Debug\net6.0\bandems222.dll
+C:\Users\Vilius\OneDrive\Desktop\bandems222\obj\Debug\net6.0\ref\bandems222.dll
+C:\Users\Vilius\OneDrive\Desktop\bandems222\obj\Debug\net6.0\bandems222.pdb
+C:\Users\Vilius\OneDrive\Desktop\bandems222\obj\Debug\net6.0\bandems222.genruntimeconfig.cache
